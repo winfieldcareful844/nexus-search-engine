@@ -1,4 +1,4 @@
-# NEXUS DSA — Distributed Search Engine
+# NEXUS DSA: Distributed Search Engine
 
 A production-grade, full-text + semantic search engine implementing state-of-the-art data structures and distributed systems concepts from scratch. Built to Google engineering standards: probabilistic data structures, persistent storage, graph algorithms, and hybrid AI-powered search.
 
